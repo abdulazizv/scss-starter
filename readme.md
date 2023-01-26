@@ -5,4 +5,4 @@
 5. Extend ✅
 6. Mixin ✅
 
-<img src="../images/image.jpg" alt="image">
+<img src="./image.jpg" alt="image">
